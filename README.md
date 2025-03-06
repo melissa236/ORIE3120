@@ -9,7 +9,6 @@ If you're working in **Google Colab**, follow the steps below to set up your env
 ## Setup Instructions
 
 ### **For Google Colab**
-1. **Open a new Colab notebook**.
 2. Run the following command to clone the repository ONLY THE FIRST TIME:
     ```python
     !git clone https://github.com/melissa236/ORIE3120.git
